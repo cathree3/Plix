@@ -1,6 +1,10 @@
-基于IBM Plex Sans汉字系列修改，先用SC铺底，盖上TC，再盖上JP。
+基于IBM Plex Sans汉字系列修改
 
-可以显示不规范字形的简体中文。字体文件中.7z压缩包内，每包四款字体，共八款。
+普力士：用JP补上TC，再补上SC。标点居角，日本字形
+卜力士：用TC补上JP，再补上SC。标点居中，繁中字形
+
+可以显示简体字
+还可以显示不规范字形的简体字
 
 工具：中文字體簡繁處理工具 https://github.com/GuiWonder/TCFontCreator
 ![Plix_plix-1](https://github.com/user-attachments/assets/b68d4f6d-de2f-4ea9-82af-0eb1d6eaed76)
