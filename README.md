@@ -6,7 +6,7 @@ Blix卜力士：用TC補上JP，再補上SC。標點居中，繁中字形
 
 可以顯示簡體字，還可以顯示不規範字形的簡體字。
 
-谷歌網盤下載：https://drive.google.com/drive/folders/1LfwdRwl8JymFbdfjNf1c_pTqp2iTeXtp?usp=sharing
+谷歌網盤下載：[https://drive.google.com/drive/folders/1LfwdRwl8JymFbdfjNf1c_pTqp2iTeXtp?usp=sharing](https://drive.google.com/drive/folders/14naJSasVxrPstbWkHtK696LLGAb5H-vm?usp=sharing)
 
 百度網盤下載：https://pan.baidu.com/s/1iU3KMmBqvvvnZ3EGjimfyg?pwd=1bgf
 
