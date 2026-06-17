@@ -1,6 +1,8 @@
 更新到v1.2,改名叫「普利世」（現在三個筆画比較平均噜）
-<img width="1667" height="2222" alt="Plix1 2-02" src="https://github.com/user-attachments/assets/708ef207-04bf-4acf-8d02-2600b78ae538" />
+
 <img width="1667" height="2222" alt="Plix1 2-01" src="https://github.com/user-attachments/assets/102cf584-ba32-4c72-a12b-c5659b98c156" />
+<img width="1667" height="2222" alt="Plix1 2-02" src="https://github.com/user-attachments/assets/708ef207-04bf-4acf-8d02-2600b78ae538" />
+
 谷歌網盤下載：[https://drive.google.com/drive/folders/1LfwdRwl8JymFbdfjNf1c_pTqp2iTeXtp?usp=sharing](https://drive.google.com/drive/folders/14naJSasVxrPstbWkHtK696LLGAb5H-vm?usp=sharing)
 
 百度網盤下載：https://pan.baidu.com/s/1iU3KMmBqvvvnZ3EGjimfyg?pwd=1bgf
