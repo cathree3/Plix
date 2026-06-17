@@ -1,3 +1,12 @@
+更新到v1.2,改名叫「普利世」（現在三個筆画比較平均噜）
+<img width="1667" height="2222" alt="Plix1 2-02" src="https://github.com/user-attachments/assets/708ef207-04bf-4acf-8d02-2600b78ae538" />
+<img width="1667" height="2222" alt="Plix1 2-01" src="https://github.com/user-attachments/assets/102cf584-ba32-4c72-a12b-c5659b98c156" />
+谷歌網盤下載：[https://drive.google.com/drive/folders/1LfwdRwl8JymFbdfjNf1c_pTqp2iTeXtp?usp=sharing](https://drive.google.com/drive/folders/14naJSasVxrPstbWkHtK696LLGAb5H-vm?usp=sharing)
+
+百度網盤下載：https://pan.baidu.com/s/1iU3KMmBqvvvnZ3EGjimfyg?pwd=1bgf
+
+==以下是之前的內容==
+
 基於IBM Plex Sans漢字系列的合併字體
 
 Plix普力士：用JP補上TC，再補上SC。標點居角，日本字形
@@ -5,10 +14,6 @@ Plix普力士：用JP補上TC，再補上SC。標點居角，日本字形
 Blix卜力士：用TC補上JP，再補上SC。標點居中，繁中字形
 
 可以顯示簡體字，還可以顯示不規範字形的簡體字。
-
-谷歌網盤下載：[https://drive.google.com/drive/folders/1LfwdRwl8JymFbdfjNf1c_pTqp2iTeXtp?usp=sharing](https://drive.google.com/drive/folders/14naJSasVxrPstbWkHtK696LLGAb5H-vm?usp=sharing)
-
-百度網盤下載：https://pan.baidu.com/s/1iU3KMmBqvvvnZ3EGjimfyg?pwd=1bgf
 
 工具：中文字體簡繁處理工具 https://github.com/GuiWonder/TCFontCreator
 
