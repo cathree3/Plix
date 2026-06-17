@@ -1,4 +1,4 @@
-更新到v1.2,改名叫「普利世」（現在三個筆画比較平均噜）
+更新到v1.2，改名叫「普利世」（現在三個筆画比較平均噜）
 
 <img width="1667" height="2222" alt="Plix1 2-01" src="https://github.com/user-attachments/assets/102cf584-ba32-4c72-a12b-c5659b98c156" />
 <img width="1667" height="2222" alt="Plix1 2-02" src="https://github.com/user-attachments/assets/708ef207-04bf-4acf-8d02-2600b78ae538" />
