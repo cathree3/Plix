@@ -2,6 +2,8 @@
 
 <img width="1667" height="2222" alt="Plix1 2-01" src="https://github.com/user-attachments/assets/102cf584-ba32-4c72-a12b-c5659b98c156" />
 <img width="1667" height="2222" alt="Plix1 2-02" src="https://github.com/user-attachments/assets/708ef207-04bf-4acf-8d02-2600b78ae538" />
+<img width="2500" height="3334" alt="Plix1 2" src="https://github.com/user-attachments/assets/537b1c80-9a8b-4faa-a449-2012cb1fb85e" />
+
 
 谷歌網盤下載：[https://drive.google.com/drive/folders/1LfwdRwl8JymFbdfjNf1c_pTqp2iTeXtp?usp=sharing](https://drive.google.com/drive/folders/14naJSasVxrPstbWkHtK696LLGAb5H-vm?usp=sharing)
 
